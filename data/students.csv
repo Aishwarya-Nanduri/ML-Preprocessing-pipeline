@@ -1,0 +1,6 @@
+Name,Age,Gender,Marks,City
+A,20,Male,85,Hyderabad
+B,21,Female,90,Chennai
+C,,Female,78,Hyderabad
+D,22,Male,,Mumbai
+E,19,Female,88,Chennai

@@ -1,0 +1,6 @@
+Name,Age,Gender,Marks,City_Chennai,City_Hyderabad,City_Mumbai
+A,-0.4472135954999579,0,0.5833333333333334,False,True,False
+B,0.4472135954999579,1,1.0,True,False,False
+C,0.0,1,0.0,False,True,False
+D,1.3416407864998738,0,0.6041666666666666,False,False,True
+E,-1.3416407864998738,1,0.8333333333333334,True,False,False
